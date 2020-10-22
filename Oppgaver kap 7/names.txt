@@ -1,0 +1,8 @@
+John, 55.0, Male
+Toney, 23.0, Male
+Karin, 42.0, Female
+Cathie, 29.0, Female
+Rosalba, 12.0, Female
+Nina, 50.0, Female
+Burton, 16.0, Male
+Joey, 90.0, Male
