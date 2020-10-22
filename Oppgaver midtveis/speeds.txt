@@ -1,0 +1,15 @@
+velocities (mph)
+---------------------------------
+Peregrin_falcon 200.00
+Cheetah 70.00
+Lion 50.00
+Gazelle 50.00
+Wildebeest 50.00
+Cat 30.00
+Kangaroo 30.00
+Human 27.89
+Elephant 25.00
+Black_mamba_snake 20.00
+Pig 11.00
+Sloth 0.15
+Garden_snail 0.03
