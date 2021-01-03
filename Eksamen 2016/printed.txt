@@ -1,0 +1,11 @@
+1.)
+Letter 2 is c
+letter 7 is h
+2.)
+v0*t - 0.5*g*t**2; v0 = 5
+3.)
+The value of the polynomial is 3
+4.)
+The total rainfall from june to august was 58
+5.)
+Nothing

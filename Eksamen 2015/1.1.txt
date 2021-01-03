@@ -1,0 +1,11 @@
+a)
+False
+b)
+0
+c)
+['d', 'e', 'f']
+'h'
+d)
+Cannot convert string to float
+e)
+Nothing
