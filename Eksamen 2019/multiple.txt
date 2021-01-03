@@ -1,0 +1,24 @@
+1.1
+4
+1.2
+[3,4]
+1.3
+102013012
+1.4
+3 4 0
+1.5
+[2,1,1,1,0]
+1.6
+A test funcion can have multple assert statments
+1.7
+Nothing
+1.8
+lambda y,t:
+1.9
+lambda x:
+1.10
+for number in e
+1.11
+-1 15
+1.12
+4 1.00

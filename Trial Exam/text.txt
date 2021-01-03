@@ -1,0 +1,23 @@
+1)
+a = [2*i for i in range(1,4)]
+
+2)
+f(1, 2, w = 2)
+f(1, 2)
+f(y=3, x=6, 6)
+
+3)
+99
+
+4)
+An Error message
+
+5)
+20
+
+6)
+4
+
+7)
+The statement assert False, 'Error' halts program execution with an error
+message.
